@@ -13,11 +13,4 @@ Projects
 - Blackjack & Tile RPG Game (Pygame, Python Libary)
 - Lots of other smaller projects
 
-Hobbies
--
-- Surfing
-- Coding
-- Gaming
-- Physics
-
-
+Contact me on Discord: Beetlemadooda#0955
