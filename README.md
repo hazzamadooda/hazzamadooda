@@ -1,5 +1,5 @@
 <h1>About Me!</h1>
-I am delighted to present myself as an enthusiastic and driven individual currently pursuing a double degree in Advanced Computing, specializing in Cyber Security, and Finance, with a focus on Quantitative Finance, at the  Australian National University (ANU).
+I am delighted to present myself as an enthusiastic and driven individual currently pursuing a double degree in Computing and Finance, with a focus on Quantitative Finance, at the  Australian National University (ANU).
 
 **Languages**
 --
