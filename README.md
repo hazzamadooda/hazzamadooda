@@ -3,8 +3,8 @@ I am delighted to present myself as an enthusiastic and driven individual curren
 
 **Languages**
 --
-- 🐍 Python (7+ Years)
-- 🖥️ Javascript (2+ Years)
+- 🐍 Python (5+ Years)
+- 🖥️ Javascript (1+ Years)
 - 📶 Html & CSS (2+ Years)
 - 💻 Java (3 Years)
 - ⌨️ Haskell (6 Months)
