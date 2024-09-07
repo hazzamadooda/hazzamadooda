@@ -1,10 +1,9 @@
 <h1>About Me!</h1>
-I am delighted to present myself as an enthusiastic and driven individual currently pursuing a double degree in Computing and Finance, with a focus on Quantitative Finance, at the  Australian National University (ANU).
+I am delighted to present myself as an enthusiastic and driven individual currently pursuing a double degree in Computing and Finance, with a focus on Capital Markets, at the  Australian National University (ANU).
 
 **Languages**
 --
 - 🐍 Python (5+ Years)
-- 🖥️ Javascript (1+ Years)
 - 📶 Html & CSS (2+ Years)
 - 💻 Java (3 Years)
 - ⌨️ Haskell (6 Months)
